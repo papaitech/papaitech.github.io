@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oi, Sou Alberto
+title: Oi, Sou <del>Alberto</del> Betinho
 permalink: /sobre/
 ---
 
